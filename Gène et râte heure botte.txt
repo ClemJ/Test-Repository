@@ -13,3 +13,4 @@ ccc
 - Le but final étant de pouvoir générer un bot plutôt modulable, pouvant s’adapter aussi bien à un jeu simple, qu’à une suite d’action demandée par l’utilisateur sur son ordinateur.
 
 aaa
+gergg
