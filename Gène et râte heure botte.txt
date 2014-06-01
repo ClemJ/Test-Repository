@@ -7,7 +7,7 @@ Générateur de bot :
 - Reconnaissance d’images sur l’écran. Ex: je charge une image dans le générateur et à tel moment je lui dit que je veux cliquer à l’endroit où tel image apparaît sur l’écran.
 - Une fois toutes les actions demandées écrites sur l’interface, cliquer sur générer pour générer le bot qui fera cette suite d’action
 
-
+bbb
 - Le but final étant de pouvoir générer un bot plutôt modulable, pouvant s’adapter aussi bien à un jeu simple, qu’à une suite d’action demandée par l’utilisateur sur son ordinateur.
 
 aaa
