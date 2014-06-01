@@ -1,0 +1,19 @@
+Générateur de bot :
+- Interface pour générer des actions (clic, swipe, touches clavier, wait,…)
+- Fixer des actions annexes et des évènements comme des répétitions, un bouton d’arrêt, des if, for, while,…
+- Délimitation de la zone d’action. Ex : fenêtre (1,1;200,1;1,200;200,200)
+- Possibilité de programmation d’algorithme mêlant les différentes actions. Ex: allocation de ressources, incrémentation de variables, etc…
+ 
+- Reconnaissance d’images sur l’écran. Ex: je charge une image dans le générateur et à tel moment je lui dit que je veux cliquer à l’endroit où tel image apparaît sur l’écran.
+- Une fois toutes les actions demandées écrites sur l’interface, cliquer sur générer pour générer le bot qui fera cette suite d’action
+
+bbb
+
+ccc
+- Le but final étant de pouvoir générer un bot plutôt modulable, pouvant s’adapter aussi bien à un jeu simple, qu’à une suite d’action demandée par l’utilisateur sur son ordinateur.
+
+aaa
+gergg
+
+atte
+ok
